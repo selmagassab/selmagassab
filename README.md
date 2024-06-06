@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **something special**
 
+- 💬 Ask me about **MEARN Stack, Spring Boot, Angular**
+
 - 📫 How to reach me **selmagassab9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
